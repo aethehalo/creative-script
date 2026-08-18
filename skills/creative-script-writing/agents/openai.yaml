@@ -1,0 +1,7 @@
+interface:
+  display_name: "创意脚本"
+  short_description: "用现代网文与游戏叙事方法，从强 Hook 写出完整剧情脚本"
+  default_prompt: "使用 $creative-script-writing，从一个有共鸣的 Hook 开始创作完整剧情脚本。"
+
+policy:
+  allow_implicit_invocation: true

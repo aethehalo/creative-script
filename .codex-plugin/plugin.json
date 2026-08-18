@@ -1,0 +1,24 @@
+{
+  "name": "creative-script",
+  "version": "0.1.0",
+  "description": "以现代网络小说与游戏叙事方法创作短篇或中篇剧情脚本。",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "创意脚本",
+    "shortDescription": "从高共鸣 Hook 出发，创作紧凑、有反转且完整的剧情脚本。",
+    "longDescription": "为短篇与中篇内容设计高吸引力 Hook、人物弧光、冲突升级、伏笔回收和完整结局；支持现代网络小说、线性游戏剧情、任务线与分支叙事。",
+    "developerName": "Local developer",
+    "category": "Creativity",
+    "capabilities": [
+      "Write"
+    ],
+    "defaultPrompt": [
+      "从一个小切口和强 Hook 出发，创作一篇完整的短篇剧情脚本。",
+      "把这个故事梗概改造成节奏紧凑、反转合理的中篇网文剧情脚本。",
+      "为这个游戏概念设计主线、关键选择与有代价的分支结局。"
+    ]
+  }
+}
